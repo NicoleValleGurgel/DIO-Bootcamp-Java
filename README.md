@@ -1,2 +1,2 @@
 > [!NOTE]
-> Reporitório criado para o armazenamento de conteúdo do Bootcamp de Java.
+> Repositório criado para o armazenamento de conteúdo do Bootcamp de Java.
